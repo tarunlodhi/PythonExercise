@@ -1,4 +1,0 @@
-#Challenge
-1. View the dictionary contents holding the number of trees collected from each subdivision
-2. Note that subdivision ID(key for the dictionary) is not unique
-3. Print the content of the dictionary
