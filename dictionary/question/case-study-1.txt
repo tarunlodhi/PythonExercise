@@ -1,0 +1,8 @@
+Problem Statement : How much can this dictionary data be manipulated
+#Challenge
+1. Get the size of the dictionary - how big is the data?
+2. Give an option for the troop to change the number of trees collected
+3. Give an option for the troop to add new customer
+4. Print the contents of the dictionary
+5. Solution
+6. len(mydict)
