@@ -1,3 +1,0 @@
-#Challenge : Our goal is to find our best customers.
-1. Create a new dictionary called treeOrder10 with subdivisions that have more than 10 tree order
-2. Need to use dictionary comprehension
