@@ -1,3 +1,5 @@
+# John:123,Jack:23,Jill:101,Steve:125,Jim:4
+
 input_str = input()
 ele_list=[]
 final_str =""
